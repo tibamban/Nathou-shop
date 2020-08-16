@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "curly hair",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/woman1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "wavy hair",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/woman2.jpg"  } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "braids",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/woman3.jpg"  } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "straigth hair",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/woman4.jpg"  } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "design hair",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/woman5.jpg"  } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": " hair",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url":"./images/woman6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "hair",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/woman7.jpg"  } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "hair",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/woman8.jpg" } } }
+      }
+    }
+  ]
+}
