@@ -1,2 +1,1 @@
-# Nathou-shop
-this is my first repository I've been coding for a while now, but I'm trying to be more familiar with github .
+This is e-commerce website using vanilla JavaScript where you can order some items
